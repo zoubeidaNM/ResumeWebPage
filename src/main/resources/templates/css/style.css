@@ -1,0 +1,190 @@
+.profile1
+{
+    background: rgba(0, 0, 0, 0.2);
+    color: #fff;
+}
+
+.robotocondenced {
+font-family: 'Roboto Condensed', sans-serif;
+}
+.profile2
+{
+    padding: 10px;
+    background: rgba(0, 0, 0.1, 0.2);
+    color: #fff;
+    margin-top: 20px;
+}
+
+.profileimage
+{
+    /*height: 15em;*/
+    height:100%;
+    width: 100%;
+    /*margin: auto;*/
+    margin-top: 1.5em;
+    float: right;
+    border: #fff 3px solid;
+    border-radius: 50%;
+    border-radius: 50%;
+
+}
+
+.name {
+     font-size: 32px;
+     font-weight: 900;
+     margin-top: 0;
+ }
+
+.occupation
+{
+    font-size: 20px;
+    font-weight: 800;
+    margin-top: 0;
+    font-style: italic;
+    margin-bottom: 40px;
+}
+
+.glyphicon.glyphicon-home {
+    font-size: 20px;
+}
+
+.glyphicon.glyphicon-phone {
+    font-size: 20px;
+}
+
+.glyphicon.glyphicon-envelope {
+    font-size: 20px;
+}
+
+
+.contact-list .email .fa {
+    font-size: 14px;
+}
+
+.fa {
+    width: 30px;
+    height: 30px;
+    margin-right: 8px;
+    display: inline-block;
+    color: #fff;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+    -moz-background-clip: padding;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    /*background: #2d7788;*/
+    background: red;
+    text-align: center;
+    padding-top: 8px;
+    font-size: 16px;
+    position: relative;
+    top: -2px;
+}
+
+.ibgtitle
+{
+    color:#337ab7;
+}
+
+.ibgprofile
+{
+    color: #337ab7;
+}
+
+.ibgcontact
+{
+    background: #003366;
+}
+
+.title {
+     text-align: right;
+     float: right;
+    margin: auto;
+
+}
+
+.objtitle
+{
+    padding-top: 5px;
+    text-align: right;
+    float: right;
+}
+
+.objinfo
+{
+    padding: 30px 0;
+    text-align: left;
+    float: left;
+    font-size: medium;
+}
+
+.sociamedia {
+    padding: 30px 0;
+    text-align: right;
+
+}
+
+.persinfo {
+    padding: 30px 0;
+    text-align: left;
+}
+
+.dates
+{
+    padding-top: 10px;
+    text-align: right;
+    float: right;
+    font-size: medium;
+}
+
+.compname
+{
+    padding-top: 17px;
+    text-align: left;
+    float: left;
+    font-size: large;
+
+}
+.italic {
+    font-size: medium;
+    font-style: italic;
+    text-align: left;
+}
+
+.jobtitle
+{
+    padding-top: 5px;
+    text-align: left;
+    float: left;
+    font-size: medium;
+    font-style: italic;
+
+}
+
+.r_bg
+{
+     padding: 50px 0;
+     background: darkgray;
+
+}
+
+.joexplist {
+    padding-top: 5px;
+    text-align: left;
+    float: left;
+    font-size: medium;
+}
+
+.skilllist
+{
+    padding-top: 25px;
+    text-align: left;
+    float: left;
+    font-size: medium;
+
+}
+
+
